@@ -1,0 +1,10 @@
+Queries are written in mysql command line 8.0
+STEPS-
+1. create database zomato;
+2. use zomato;
+3. source customer.sql
+4. source customer_values.sql
+5. source delieveries.sql
+6. source delieveries_values.sql
+
+run sql queries
